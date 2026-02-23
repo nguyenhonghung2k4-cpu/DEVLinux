@@ -1,0 +1,31 @@
+[2026-02-23 21:37:06] [INFO] [main.c:12] - Chương trình bắt đầu thực thi.
+[2026-02-23 21:37:06] [WARNING] [main.c:15] - Không tìm thấy dữ liệu cho người dùng có ID = 404
+[2026-02-23 21:37:06] [ERROR] [main.c:18] - Không thể kết nối đến cơ sở dữ liệu: Timeout connection
+[2026-02-23 21:37:06] [INFO] [main.c:26] - Đã thay đổi mức log tối thiểu xuống LOG_DEBUG.
+[2026-02-23 21:37:06] [DEBUG] [main.c:29] - Tiến trình quét bộ nhớ đã hoàn tất.
+[2026-02-23 21:37:06] [INFO] [main.c:32] - Chương trình kết thúc.
+[2026-02-23 21:44:31] [INFO] [main.c:12] - Chương trình bắt đầu thực thi.
+[2026-02-23 21:44:31] [WARNING] [main.c:15] - Không tìm thấy dữ liệu cho người dùng có ID = 404
+[2026-02-23 21:44:31] [ERROR] [main.c:18] - Không thể kết nối đến cơ sở dữ liệu: Timeout connection
+[2026-02-23 21:44:31] [INFO] [main.c:26] - Đã thay đổi mức log tối thiểu xuống LOG_DEBUG.
+[2026-02-23 21:44:31] [DEBUG] [main.c:29] - Tiến trình quét bộ nhớ đã hoàn tất.
+[2026-02-23 21:44:31] [INFO] [main.c:32] - Chương trình kết thúc.
+[2026-02-23 21:44:43] [INFO] [main.c:12] - Start
+[2026-02-23 21:44:43] [WARNING] [main.c:15] - Khong tim thay du lieu cho user co ID = 404
+[2026-02-23 21:44:43] [ERROR] [main.c:18] - Khong the ket noi den database: Timeout connection
+[2026-02-23 21:44:43] [INFO] [main.c:25] - Da thay doi muc log toi thieu xuong LOG_DEBUG.
+[2026-02-23 21:44:43] [DEBUG] [main.c:27] - Tien trinh quet bo nho da hoan tat.
+[2026-02-23 21:44:43] [INFO] [main.c:29] - Chuong trinh ket thuc.
+[2026-02-23 21:51:56] [INFO] [main.c:12] - Start
+[2026-02-23 21:51:56] [WARNING] [main.c:15] - Khong tim thay du lieu cho user co ID = 404
+[2026-02-23 21:51:56] [ERROR] [main.c:18] - Khong the ket noi den database: Timeout connection
+[2026-02-23 21:51:56] [INFO] [main.c:25] - Da thay doi muc log toi thieu xuong LOG_DEBUG.
+[2026-02-23 21:51:56] [DEBUG] [main.c:27] - Tien trinh quet bo nho da hoan tat.
+[2026-02-23 21:51:56] [INFO] [main.c:29] - Chuong trinh ket thuc.
+[2026-02-23 21:52:06] [INFO] [main.c:12] - Start
+[2026-02-23 21:52:06] [WARNING] [main.c:15] - Khong tim thay du lieu cho user co ID = 404
+[2026-02-23 21:52:06] [ERROR] [main.c:18] - Khong the ket noi den database: Timeout connection
+[2026-02-23 21:52:06] [INFO] [main.c:25] - Da thay doi muc log toi thieu xuong LOG_DEBUG.
+[2026-02-23 21:52:06] [DEBUG] [main.c:26] - Con tro dang o dia chi 0000009B2C1FFD6C
+[2026-02-23 21:52:06] [DEBUG] [main.c:28] - Tien trinh quet bo nho da hoan tat.
+[2026-02-23 21:52:06] [INFO] [main.c:30] - Chuong trinh ket thuc.
